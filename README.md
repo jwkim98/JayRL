@@ -1,4 +1,4 @@
-# cpp-oss-template
+# JayRL
 
 <img src="./Medias/Logo.png" width=306 height=344 />
 
@@ -9,19 +9,13 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/utilForever/cpp-oss-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/utilForever/cpp-oss-template/alerts/)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/utilForever/cpp-oss-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/utilForever/cpp-oss-template/context:cpp)
 
-cpp-oss-template is a simple template for C++ language based project.
+JayRL is Cpp20 based RL environment for easy integration of Reinforcement learning.
+## Requirements
+* Designed to work like bread and butter with Sapphire
+* Implements template for core components of RL
+* Supports both dqn and policy based approaches
+* Flexible enough to extend the library for future researches
 
-## Support CI
-
-- Appveyor
-- Travis CI
-- Azure Pipelines
-
-## Support Tool
-
-- Codecov
-- Codacy
-- LGTM
 
 ## How To Contribute
 
@@ -29,11 +23,7 @@ Contributions are always welcome, either reporting issues/bugs or forking the re
 
 ## Contact
 
-You can contact me via e-mail (utilForever at gmail.com). I am always happy to answer questions or help with any issues you might have, and please be sure to share any additional work or your creations with me, I love seeing what other people are making.
-
-## References
-
-- https://github.com/codecov/cpp-11-standard
+You can contact me via e-mail (jwkimrhkgkr@gmail.com). I am always happy to answer questions or help with any issues you might have, and please be sure to share any additional work or your creations with me, I love seeing what other people are making.
 
 ## License
 
@@ -41,7 +31,7 @@ You can contact me via e-mail (utilForever at gmail.com). I am always happy to a
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2019 [Chris Ohk](http://www.github.com/utilForever).
+Copyright &copy; 2022 [Chris Ohk](http://www.github.com/jwkim98).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
